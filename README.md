@@ -1,4 +1,4 @@
-# gm-binary
+# gm-binary2
 
 [GraphicsMagick](http://www.graphicsmagick.org/) binary ([Ghostscript](http://www.ghostscript.com) included) as a local dependency for OS X and windows(x64)
 
@@ -6,7 +6,7 @@
 
 ``` javascript
 var gmBin = require('gm-binary');
-console.log(gmBin.gmPath); // /path/to/node_modules/gm-binary/bin/gm
+console.log(gmBin.gmPath); // /path/to/node_modules/gm-binary/bin/mac/gm
 ```
 
 The module automatically add the /bin folder to the PATH variable

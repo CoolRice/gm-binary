@@ -1,5 +1,5 @@
 {
-  "name": "gm-binary",
+  "name": "gm-binary2",
   "version": "0.2.1",
   "description": "GraphicsMagick binary as a local dependency for OS X",
   "homepage": "https://github.com/Glitchbone/gm-binary",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Glitchbone/gm-binary.git"
+    "url": "git://github.com/CoolRice/gm-binary.git"
   },
   "keywords": [
     "GraphicsMagick"
   ],
-  "author": "Adrien Glitchbone",
+  "author": "coolrice",
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.5.1"
