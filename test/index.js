@@ -7,9 +7,3 @@ it('should find gm', function(t) {
     t.ok(stats.isFile(gmBin.gmPath));
     t.end();
 });
-
-it('should find gs', function(t) {
-    var stats = fs.statSync(gmBin.gsPath);
-    t.ok(stats.isFile(gmBin.gsPath));
-    t.end();
-});
