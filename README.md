@@ -1,6 +1,6 @@
 # gm-binary
 
-[GraphicsMagick](http://www.graphicsmagick.org/) binary ([Ghostscript](http://www.ghostscript.com) included) as a local dependency for OS X
+[GraphicsMagick](http://www.graphicsmagick.org/) binary ([Ghostscript](http://www.ghostscript.com) included) as a local dependency for OS X and windows(x64)
 
 ## Usage
 
